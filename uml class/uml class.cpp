@@ -116,7 +116,7 @@ int main()
     cout << "Count of course?" << endl;
     int n;
     cin >> n;
-    for (int i = 0; i < n; i++)   //Заполняем курсы
+    for (int i = 0; i < n; i++)   
     {
         course nw;
         vuz.push_back(nw);
